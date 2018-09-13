@@ -1,0 +1,25 @@
+_repo: Herr-Wenzel-auf-Rehberg-und-sein-Knecht-Kaspar-Dinckel_51333
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salten, Felix
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '35122'
+    url: http://www.gutenberg.org/2009/agents/35122
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Salten
+description: ''
+gutenberg_issued: '2016-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51333'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian fiction'
+- !lcc 'PT'
+- GITenberg
+title: Herr Wenzel auf Rehberg und sein Knecht Kaspar Dinckel
+url: http://www.gutenberg.org/ebooks/51333
